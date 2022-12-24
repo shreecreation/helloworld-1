@@ -10,8 +10,8 @@
          
     <repositories>
     <repository>
-      <id>maven-group</id>
-      <url>http://3.142.249.64:8081/repository/project1/</url>
+      <id>project1</id>
+      <url>http://3.142.249.64:8081</url>
     </repository>
     </repositories>
 
